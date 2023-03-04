@@ -1,0 +1,10 @@
+#wrapper {
+    width: 100%;
+    height: 100vh;
+    background-color: #0d6efd;
+}
+
+.my_box {
+    max-height: 80vh;
+    overflow-y: auto;
+}
